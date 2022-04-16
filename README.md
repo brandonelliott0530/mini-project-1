@@ -1,0 +1,2 @@
+-Created home page to add my contact information to in the future. 
+-Will need to add to the protfolio and contact links. 
